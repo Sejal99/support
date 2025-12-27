@@ -6,31 +6,42 @@
 
 [![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org)
 
+## 📌 About This Repository
+
+This repository is part of the EddieHub Community and serves as a central place
+for support, guidance, and collaboration. It helps contributors and community
+members ask questions, raise issues, share ideas, and learn how to get involved
+in open source.
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Join the Discord Community](http://discord.eddiehub.org) — [Subscribe to Eddie Jaoude's YouTube channel](https://www.youtube.com/user/eddiejaoude)
 
 ---
 
-## Guides
+## 📘 Guides
 
-- Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+Use this repository for the following actions:
 
-- Actions go under [issues](https://github.com/EddieHubCommunity/support/issues)
+### 🐛 Issues
+- Report bugs
+- Request to be added to the EddieHub GitHub organization
+- Raise community-related actions
 
-  - Bugs
+👉 Create an issue here: https://github.com/EddieHubCommunity/support/issues
 
-  - Add me to the organization
+### 💬 Discussions
+Use Discussions for:
+- Asking questions
+- Sharing ideas (issues can be created after discussion)
+- Showcasing open-source portfolios for community feedback
 
-- Miscellaneous go under [Discussions](https://github.com/EddieHubCommunity/support/discussions)
+👉 Join the discussion: https://github.com/EddieHubCommunity/support/discussions
 
-  - Questions
-
-  - Ideas (once discussed, an Issue could be created and linked to the Discussion thread)
-
-  - Showcase of Open Source Portfolios to get feedback from community members.
-
-  - Feel free to check out other cool repositories of EddieHub [here](https://github.com/EddieHubCommunity)
+### 🌐 Explore More
+Check out other EddieHub repositories here:
+https://github.com/EddieHubCommunity
 
 ---
 
